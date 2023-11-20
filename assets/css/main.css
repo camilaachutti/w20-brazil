@@ -216,15 +216,15 @@ a:focus {
 
 @media (min-width: 320px) {
     .md-section {
-        padding-top: calc(14.88095vw + 2.38095px);
-        padding-bottom: calc(14.88095vw + 2.38095px);
+        /* padding-top: calc(14.88095vw + 2.38095px); */
+        /* padding-bottom: calc(14.88095vw + 2.38095px); */
     }
 }
 
 @media (min-width: 992px) {
     .md-section {
-        padding-top: 150px;
-        padding-bottom: 150px;
+        /* padding-top: 150px; */
+        /* padding-bottom: 150px; */
     }
 }
 
@@ -778,14 +778,26 @@ input[type="button"].btn-block {
     border: 1px solid #336534;
     background-color: #336534;
 }
-
+.uael-col-img--left {
+    width: 95%;
+}
 .btn-w180 {
     min-width: 180px;
 }
 
+thead {
+    height: 100px;
+}
 
 
+.corpo{
+    text-align: left;
 
+}
+
+.uael-table-row .uael-table-col {
+    /* width: 80%; */
+}
 
 /* 2. form-item
 --------------------------------------------------------------------------------*/
