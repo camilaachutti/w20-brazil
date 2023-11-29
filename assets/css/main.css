@@ -1101,6 +1101,10 @@ h6 {
     font-size: 14px;
 }
 
+#carregando{
+    margin-bottom: 100px;
+}
+
 h3, h1, h2, h3 {
     margin-top: 0;
     margin-bottom: 15px;
@@ -1112,7 +1116,7 @@ h4, h5, h6 {
 }
 
 img {
-    max-width: 100%;
+    max-width: 155%;
 }
 
 blockquote {
